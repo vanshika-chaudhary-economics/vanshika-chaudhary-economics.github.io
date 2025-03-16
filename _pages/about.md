@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD Candidate in Economics, IIM Indore
+**PhD Candidate in Economics, IIM Indore**
 
 
 **Hello! Welcome to my personal website.**
