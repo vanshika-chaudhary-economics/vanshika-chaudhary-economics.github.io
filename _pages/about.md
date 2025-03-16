@@ -1,12 +1,13 @@
 ---
 permalink: /
 title: "Vanshika Chaudhary"
-subtitle: PhD Candidate in Economics, IIM Indore
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+PhD Candidate in Economics, IIM Indore
+
 
 **Hello! Welcome to my personal website.**
 
