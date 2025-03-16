@@ -16,9 +16,9 @@ View/download my [CV](https://www.dropbox.com/home/CV?preview=Vanshika_CV_15-11-
 ---
 PhD Dissertation - "Essays on Human Capital Formation"
 ======
-* Essay 1 - Causal Impact of Noncognitive Abilities on Cognitive Abilities
-* Essay 2 - Peer Gender Effect: Evidence from India
-* Essay 3 - Cognitive and Noncognitive Abilities and Skill-Education Mismatch: A Study on Low-and-Middle-Income Countries
+* _**Essay 1**_ - Causal Impact of Noncognitive Abilities on Cognitive Abilities
+* _**Essay 2**_ - Peer Gender Effect: Evidence from India
+* _**Essay 3**_ - Cognitive and Noncognitive Abilities and Skill-Education Mismatch: A Study on Low-and-Middle-Income Countries
 
 Education
 ======
