@@ -21,4 +21,4 @@ I am an Economics PhD candidate at the Indian Institute of Management Indore. My
 
 ------
 
-> Quinean Message "No part of a web of scientific belief can be privileged against the possibility of revision." 
+> "No part of a web of scientific belief can be privileged against the possibility of revision." 
