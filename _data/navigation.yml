@@ -11,5 +11,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Meet the non-academic me"
-    url: /markdown/
+  #- title: "Meet the non-academic me"
+    #url: /markdown/
