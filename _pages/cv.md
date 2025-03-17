@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**CV**
-
 View/download my [CV](https://www.dropbox.com/home/CV?preview=Vanshika_CV_15-11-24.pdf) here. 
 
 ---
