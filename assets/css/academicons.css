@@ -463,7 +463,7 @@
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
-  font-size: 1.33333em;
+  font-size: 1em;
   line-height: 0.75em;
   vertical-align: -.0667em;
 }
@@ -475,34 +475,34 @@
 }
 
 .ai-1x {
-  font-size: 1em;
+  font-size: 0.75em;
 }
 .ai-2x {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 .ai-3x {
-  font-size: 3em;
+  font-size: 1.75em;
 }
 .ai-4x {
-  font-size: 4em;
+  font-size: 2.5em;
 }
 .ai-5x {
-  font-size: 5em;
+  font-size: 3.25em;
 }
 .ai-6x {
-  font-size: 6em;
+  font-size: 4em;
 }
 .ai-7x {
-  font-size: 7em;
+  font-size: 4.75em;
 }
 .ai-8x {
-  font-size: 8em;
+  font-size: 5.5em;
 }
 .ai-9x {
-  font-size: 9em;
+  font-size: 6.25em;
 }
 .ai-10x {
-  font-size: 10em;
+  font-size: 7em;
 }
 
 .ai-fw {
