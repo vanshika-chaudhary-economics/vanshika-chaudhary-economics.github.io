@@ -1,10 +1,12 @@
 ---
-permalink: /research/
+layout: archive
 title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research.html
+redirect_from:
+  - /res
 ---
+
 **Job Market Paper**
 
 
