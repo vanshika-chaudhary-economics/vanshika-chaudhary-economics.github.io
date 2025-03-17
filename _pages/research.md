@@ -10,25 +10,33 @@ redirect_from:
 
 **Job Market Paper**
 
-
-**Peer Gender Effects: Evidence from India**
-
-[Draft](https://www.dropbox.com/scl/fi/ahpl4xyzvsym4e76zigvk/Peer-Gender-Effect_Vanshika_JMP.pdf?rlkey=qeyqvrl6gjienk4fsus358wu7&st=edp6g0mj&dl=0)
+<details open>
+  <summary> Peer Gender Effects: Evidence from India </summary>
+  
+  [Draft](https://www.dropbox.com/scl/fi/ahpl4xyzvsym4e76zigvk/Peer-Gender-Effect_Vanshika_JMP.pdf?rlkey=qeyqvrl6gjienk4fsus358wu7&st=edp6g0mj&dl=0)
 
 In this paper, we investigate the effect of peer gender composition for students aged 9-10 years in India using data from Young Lives study, on different cognitive abilities of girls and boys. We exploit the de facto random assignment of students across classes, conditional on lagged ability and school fixed effects. We find that an increase in the proportion of female students in the classroom causes females’ math abilities to improve, while it causes boys’ English abilities to improve. When we exclude single-sex schools from the sample, we find that girls also experience a positive peer gender effect on English abilities. We find that our results are driven by public-school going students, who study in schools that do not offer instruction in English medium and schools that do not provide basic amenities like gender-segregated toilets for girls. Finally, we consider various channels through which peer gender effects cause improvement and heterogeneity in improvement in cognitive abilities, by gender.
+
+</details>
 
 ------
 
 **Working Papers**
 
-**Causal Impact of Noncognitive Abilities on Cognitive Abilities**
-
+<details open>
+  <summary> Causal Impact of Noncognitive Abilities on Cognitive Abilities </summary>
+  
 In this paper, we examine the causal complementarity of noncognitive skills, agency and self-efficacy, on cognitive skills, quantitative and mathematical abilities, receptive vocabulary skills, and language skills in English and Telugu, mediated by factors such as motivation and perseverance. We hypothesize stage-skill heterogeneity in the impact of noncognitive on cognitive skills. We estimate a linear stage-based skill formation technology function to identify the causal effect. We find that one standard deviation improvement in agency leads to 30% of a standard deviation improvement in math and quantitative skills at age 12. We find no impact of noncognitive skills on receptive vocabulary and language skills at either age 12 or 15, and finally, causal impact of agency becomes insignificant in late adolescence. We find no differences in the effect by gender, at any developmental stage.  Our findings suggest that improving noncognitive skills in early adolescence can enhance cognitive skills. Effective interventions targeting noncognitive skills could significantly improve cognitive abilities by harnessing the cross-fostering feature of the technology of skill formation and accelerate learning recovery, offering a cost-effective policy solution for developing countries. 
+
+</details>
 
 ------
 
-**Does Prosperity Cast Her Out? Class Transition and the Changing Work Status of Indian Women**
+<details open>
+  <summary> Does Prosperity Cast Her Out? Class Transition and the Changing Work Status of Indian Women </summary>
 
 A theoretically driven, multidimensional empirical technique is used to estimate class transition between 2004–2005 and 2011–2012 using Indian Human Development Survey (IHDS) data. We find that approximately 46% of the households in our sample experienced an increase in their social class ranking between these two periods. The positive impact of the upward transition on the probability of being in the workforce turns out to be significantly less for women relative to men. The positive correlation between female workforce participation and upward social mobility is further diminished for the households with above-median increase in the male income and for the sample of newly married women. These findings show that weak female bargaining power and biassed gender norms may reduce the benefits of an upward class transition on female labour force participation. In addition, our findings indicate that upward mobility hinders individuals from leaving the employment. However, women experience much less advantage compared to men in this regard. But when it comes to joining the workforce, we don't see any gender disparity. This study illuminates gender dynamics, labour force participation, and class mobility.
+
+</details>
 
 ------
