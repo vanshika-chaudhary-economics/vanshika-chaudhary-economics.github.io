@@ -7,6 +7,7 @@ redirect_from:
   - /res
 ---
 
+
 **Job Market Paper**
 
 
