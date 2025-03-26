@@ -33,7 +33,7 @@ A theoretically driven, multidimensional empirical technique is used to estimate
 
 **Impact of "Social Veblen Effect" in Mediating Female Labour-Force Participation: An Indian Study**
 
-_Under Review_
+_Under Review at Economic and Political Weekly_
 
 This study investigates the impact of class-caste-gender complex in India, based on the conceptualization of a “Social Veblen Effect”, on intra-household female agency proxied by the changing work status of women using the IHDS Survey (2005-06 and 2011-12 rounds). We find that as households move economically upward, women are less likely to be employed in the second period, relative to men. Women are more likely to exit the labour force due to upward class transition, with heterogeneous effects by caste, religion, and location. Forward caste women are more likely to leave the workforce than STs, while OBC and SC women show no significant effect. Christian women, however, are less likely to exit. This study shows that between the competing Social Veblen Effects of Sanskritization and Modernization in the post-liberalization Indian economy, while we find evidence for both, Sanskritization still seems to be the dominant model for status attainment amongst economically improving households.
 
