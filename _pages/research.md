@@ -29,6 +29,8 @@ In this paper, we examine the causal complementarity of noncognitive skills, age
 
 **Does Prosperity Cast Her Out? Class Transition and the Changing Work Status of Indian Women**
 
+[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903206)
+
 A theoretically driven, multidimensional empirical technique is used to estimate class transition between 2004–2005 and 2011–2012 using Indian Human Development Survey (IHDS) data. We find that approximately 46% of the households in our sample experienced an increase in their social class ranking between these two periods. The positive impact of the upward transition on the probability of being in the workforce turns out to be significantly less for women relative to men. The positive correlation between female workforce participation and upward social mobility is further diminished for the households with above-median increase in the male income and for the sample of newly married women. These findings show that weak female bargaining power and biassed gender norms may reduce the benefits of an upward class transition on female labour force participation. In addition, our findings indicate that upward mobility hinders individuals from leaving the employment. However, women experience much less advantage compared to men in this regard. But when it comes to joining the workforce, we don't see any gender disparity. This study illuminates gender dynamics, labour force participation, and class mobility.
 
 ------
