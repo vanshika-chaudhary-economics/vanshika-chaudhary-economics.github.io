@@ -11,6 +11,10 @@ redirect_from:
 
 Associate Professor, Indian Institute of Management
 
+<address>
+  J-206, Academic Block, Indian Institute of Management Indore<br /> Prabandh Shikhar, Rau-Pithampur Road, Indore, (Madhya Pradesh) 453556<br /> India<br /> Email: ajays@iimidr.ac.in<br /> Ph:+91-7312439622<br /> webpage: [Dr. Ajay Sharma](https://sites.google.com/site/ajayiim2015/home) <br />Other Affiliations: GLO Fellow, Global Labour Organization
+</address>
+
 J-206, Academic Block, Indian Institute of Management Indore, Prabandh Shikhar, Rau-Pithampur Road, Indore (Madhya Pradesh)-453556
 
 Email: ajays@iimidr.ac.in
