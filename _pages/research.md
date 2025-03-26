@@ -10,7 +10,7 @@ redirect_from:
 
 **Job Market Paper**
 
-**Peer Gender Effects: Evidence from India**
+[**Peer Gender Effects: Evidence from India**](https://www.dropbox.com/scl/fi/ahpl4xyzvsym4e76zigvk/Peer-Gender-Effect_Vanshika_JMP.pdf?rlkey=qeyqvrl6gjienk4fsus358wu7&st=edp6g0mj&dl=0)
   
 [Draft](https://www.dropbox.com/scl/fi/ahpl4xyzvsym4e76zigvk/Peer-Gender-Effect_Vanshika_JMP.pdf?rlkey=qeyqvrl6gjienk4fsus358wu7&st=edp6g0mj&dl=0)
 
@@ -27,7 +27,7 @@ In this paper, we examine the causal complementarity of noncognitive skills, age
 
 ------
 
-**Does Prosperity Cast Her Out? Class Transition and the Changing Work Status of Indian Women**
+[**Does Prosperity Cast Her Out? Class Transition and the Changing Work Status of Indian Women**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903206)
 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903206)
 
