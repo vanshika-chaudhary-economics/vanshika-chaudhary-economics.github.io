@@ -28,7 +28,7 @@ author:
   bio              : "Applied Microeconomist"
   location         : "India"
   employer         : "IIM Indore"
-  uri              : "https://iimidr.ac.in/wp-content/uploads/2025/03/f20Vanshikac.pdf"
+  uri              : #"https://iimidr.ac.in/wp-content/uploads/2025/03/f20Vanshikac.pdf"
   email            : "f20vanshikac@iimidr.ac.in" 
 
   # Academic websites
