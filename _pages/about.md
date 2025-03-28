@@ -15,7 +15,7 @@ I am an Economics PhD candidate at the Indian Institute of Management Indore. My
 
 ------
 
-[CV](https://www.dropbox.com/home/CV?preview=Vanshika_CV_26-03-25.pdf)
+[CV](https://www.dropbox.com/home/CV?preview=Vanshika_CV_28-03-25.pdf)
 
 [Job Market Paper](https://www.dropbox.com/home/Job%20Market%20Paper?preview=Peer+Gender+Effects_Vanshika_JMP_26-03-25.pdf)
 
