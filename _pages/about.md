@@ -13,11 +13,9 @@ redirect_from:
 
 I am an Economics PhD candidate at the Indian Institute of Management Indore. My research involves Economics of Education, Labour Economics, Gender Economics, and Development Economics. I am supervised by Dr. Ajay Sharma, Dr. Sutirtha Bandyopadhyay, and Dr. Shruti Tewari. 
 
-I am intrigued by how human capital formation in terms of various kinds of abilities, such as cognitive and noncognitive, takes place and influences later life outcomes, in the labour market and beyond. In my dissertation, titled "Essays on Human Capital Formation", I d
+My research focuses on the formation of human capital through the development of cognitive and noncognitive abilities, shaped by education, parental investment, and other influences. Skills and abilities hold both instrumental economic value and intrinsic worth, making their acquisition and impact on life outcomes a critical area of study. My dissertation, *Essays on Human Capital Formation*, examines these dynamics across three essays. The first explores how cognitive skills develop through interactions with noncognitive abilities. The second analyzes the effects of classroom peer gender composition on cognitive skill formation. The third investigates the relationship between cognitive and noncognitive abilities and skill-education mismatch in labor markets in developing countries.
 
-I am intrigued by how abilities, cognitive and noncognitive, act as both predictors and causes of various academic and economic outcomes. Education 
-
-. The first essay deals with the causal complementarity of various noncognitive skills on different cognitive skills, which I investigate by specifying a stage-skill based function of technology of cognitive skill formation. The second essay deals with the impact of peer gender composition on the cognitive skills of children in a classroom at the primary school age of 8-9 years using rural-biased India sample. My third essay deals with skill-education/qualification mismatch in the labour markets across 12 low-and-middle-income countries (LMICs), and this mismatch is correlated with cognitive and noncognitive skills of workers.
+My interest in abilities is driven by a broader concern about inequalities tied to ascribed identities. While skills reflect individual differences developed over time, gender and other ascribed identities impose systemic barriers that hinder equality, social mobility, and inclusive economic growth. As a result, my other projects focus on examining the impact of gender, caste, and similar identity-based penalties.
 
 ------
 
