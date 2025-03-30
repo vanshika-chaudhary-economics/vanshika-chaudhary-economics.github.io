@@ -25,4 +25,4 @@ My interest in abilities is driven by a broader concern about inequalities tied 
 
 ------
 
-> "No part of a web of scientific belief can be privileged against the possibility of revision." 
+> "No part of a web of scientific belief can be privileged against the possibility of revision." - Willard Van Orman Quine (paraphrased)
