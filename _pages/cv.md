@@ -16,7 +16,7 @@ View/download my [CV](https://www.dropbox.com/scl/fi/gx76ihbx8y8co3d0umzlh/Vansh
 
 PhD Dissertation - "Essays on Human Capital Formation"
 ======
-* _**Essay 1**_ - Causal Impact of Noncognitive Abilities on Cognitive Abilities
+* _**Essay 1**_ - Impact of Noncognitive Abilities on Cognitive Abilities: An India Study
 * _**Essay 2**_ - Peer Gender Effect: Evidence from India
 * _**Essay 3**_ - Cognitive and Noncognitive Abilities and Skill-Education Mismatch: A Study on Low-and-Middle-Income Countries
 
