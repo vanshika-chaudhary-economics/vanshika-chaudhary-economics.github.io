@@ -25,4 +25,4 @@ My interest in abilities is driven by a broader concern about inequalities tied 
 
 ------
 
-> No part of a web of scientific belief can be privileged against the possibility of revision (W.V.O. Quine, 1951).
+> ...the Quinean message (is) that no part of a web of scientific belief can be privileged against the possibility of revision (Bardsley et al., 2011).
