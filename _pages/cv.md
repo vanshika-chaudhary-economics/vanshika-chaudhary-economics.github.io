@@ -14,7 +14,7 @@ View/download my [CV](https://www.dropbox.com/scl/fi/c0b2pyhoeb3rzw10mchdq/Vansh
 ---
 
 
-PhD Dissertation - "Essays on Human Capital Formation”
+PhD Dissertation - “Essays on Human Capital Formation”
 ======
 * _**Essay 1**_ - Dynamic Complementarity Between Noncognitive and Cognitive Skills: Evidence from Adolescent Development in India
 * _**Essay 2**_ - Peer Gender Effect: Evidence from India
