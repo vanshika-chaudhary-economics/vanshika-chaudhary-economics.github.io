@@ -34,7 +34,7 @@ A theoretically driven, multidimensional empirical technique is used to estimate
 
 ------
 
-**Impact of "Social Veblen Effect" in Mediating Female Labour-Force Participation: An Indian Study**
+**Impact of “Social Veblen Effect” in Mediating Female Labour-Force Participation: An Indian Study**
 
 _Under Review at Economic and Political Weekly_
 
