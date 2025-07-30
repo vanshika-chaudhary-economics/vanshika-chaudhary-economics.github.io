@@ -16,9 +16,9 @@ View/download my [CV](https://www.dropbox.com/scl/fi/c0b2pyhoeb3rzw10mchdq/Vansh
 
 PhD Dissertation - "Essays on Human Capital Formation"
 ======
-* _**Essay 1**_ - Impact of Noncognitive Abilities on Cognitive Abilities: An India Study
+* _**Essay 1**_ - Cross-productivity of Skills – The Impact of Noncognitive Abilities on Cognitive Abilities: Evidence from India
 * _**Essay 2**_ - Peer Gender Effect: Evidence from India
-* _**Essay 3**_ - Cognitive and Noncognitive Abilities and Skill-Education Mismatch: A Study on Low-and-Middle-Income Countries
+* _**Essay 3**_ - Over- and Under-education and Wages: The Role of Personality Traits – A Case of Twelve LMICs 
 
 Education
 ======
