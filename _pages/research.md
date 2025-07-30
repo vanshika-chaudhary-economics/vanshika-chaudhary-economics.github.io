@@ -20,6 +20,8 @@ In this paper, I investigate the effect of peer gender composition for students 
 
 **Dynamic Complementarity Between Noncognitive and Cognitive Skills: Evidence from Adolescent Development in India**
   
+_Under Review at Social Indicators Research_
+
 This paper investigates the dynamic complementarity from noncognitive to cognitive skills using longitudinal data from the Young Lives study in India. We specify a linear multistage cognitive skill production function to estimate the effect of noncognitive skills on cognitive skills, at two developmental stages – onset of puberty, and late adolescence. We additionally employ imperfect IV estimation to address endogeneity concerns. We find three key results. One, agency belief – perceived self-control over personal outcomes – significantly improves cognitive abilities during early adolescence. Two, this effect is driven by the impact of agency on math and quantitative abilities. Three, the agency effect on mathematical and quantitative skills wanes by late adolescence. Our results indicate that there is a pronounced stage-skill heterogeneity in cross-productivity between noncognitive and cognitive skills. For developing countries, this study demonstrates that targeted interventions strengthening agency beliefs during early adolescence could cost-effectively simultaneously improve cognitive outcomes and accelerate learning recovery. This research contributes to understanding optimal timing for skill-building interventions in educational development programs.
 
 
