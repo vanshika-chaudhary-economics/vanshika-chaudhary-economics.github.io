@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View/download my [CV](https://www.dropbox.com/scl/fi/vbw013mt9qxoia7igziyc/Vanshika_CV_30-07-25.pdf?rlkey=sscoynsvhs8lkwgmh183vgtx9&st=reaswyrb&dl=0) here. 
+View/download my [CV](https://www.dropbox.com/scl/fi/ik387k1ng36h1nsm9z08f/Vanshika_CV_IIM-Indore_29-09-25.pdf?rlkey=is5otv917jry71cmy9d1ev7ea&st=587ibn9e&dl=0) here. 
 
 ---
 
