@@ -20,7 +20,7 @@ In this paper, I investigate the effect of peer gender composition for students 
 
 **Dynamic Complementarity Between Noncognitive and Cognitive Skills: Evidence from Adolescent Development in India**
   
-_Under Review at Social Indicators Research_
+_Under Review at Personality and Individual Differences_
 
 This paper investigates the dynamic complementarity from noncognitive to cognitive skills using longitudinal data from the Young Lives study in India. We specify a linear multistage cognitive skill production function to estimate the effect of noncognitive skills on cognitive skills, at two developmental stages – onset of puberty, and late adolescence. We additionally employ imperfect IV estimation to address endogeneity concerns. We find three key results. One, agency belief – perceived self-control over personal outcomes – significantly improves cognitive abilities during early adolescence. Two, this effect is driven by the impact of agency on math and quantitative abilities. Three, the agency effect on mathematical and quantitative skills wanes by late adolescence. Our results indicate that there is a pronounced stage-skill heterogeneity in cross-productivity between noncognitive and cognitive skills. For developing countries, this study demonstrates that targeted interventions strengthening agency beliefs during early adolescence could cost-effectively simultaneously improve cognitive outcomes and accelerate learning recovery. This research contributes to understanding optimal timing for skill-building interventions in educational development programs.
 
@@ -36,7 +36,7 @@ A theoretically driven, multidimensional empirical technique is used to estimate
 
 **Impact of “Social Veblen Effect” in Mediating Female Labour-Force Participation: An Indian Study**
 
-_Under Review at Economic and Political Weekly_
+_Revise and Resubmit (completed) at Economic and Political Weekly (EPW)_
 
 This study investigates the impact of class-caste-gender complex in India, based on the conceptualization of a “Social Veblen Effect”, on intra-household female agency proxied by the changing work status of women using the IHDS Survey (2005-06 and 2011-12 rounds). We find that as households move economically upward, women are less likely to be employed in the second period, relative to men. Women are more likely to exit the labour force due to upward class transition, with heterogeneous effects by caste, religion, and location. Forward caste women are more likely to leave the workforce than STs, while OBC and SC women show no significant effect. Christian women, however, are less likely to exit. This study shows that between the competing Social Veblen Effects of Sanskritization and Modernization in the post-liberalization Indian economy, while we find evidence for both, Sanskritization still seems to be the dominant model for status attainment amongst economically improving households.
 
