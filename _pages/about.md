@@ -19,7 +19,7 @@ My interest in abilities is driven by a broader concern about inequalities tied 
 
 ------
 
-[CV](https://www.dropbox.com/scl/fi/c0b2pyhoeb3rzw10mchdq/Vanshika_CV_31-03-25.pdf?rlkey=me6dn8lyhbm80jgreye3wwkwf&st=kyc7bgri&dl=0)
+[CV](https://www.dropbox.com/scl/fi/ik387k1ng36h1nsm9z08f/Vanshika_CV_IIM-Indore_29-09-25.pdf?rlkey=is5otv917jry71cmy9d1ev7ea&st=587ibn9e&dl=0)
 
 [Job Market Paper](https://www.dropbox.com/scl/fi/1bpui8hq2ylra7blfjz4u/Peer-Gender-Effects_Vanshika_JMP_26-03-25.pdf?rlkey=1j6hh9r2ci0y7pjfmf0qvebe4&st=czs0l99i&dl=0)
 
